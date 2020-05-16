@@ -103,7 +103,7 @@ export default class MapScreen extends Component {
 
         if(this.state.originText != '') {
 
-            Geocoder.init(GOOGLE_MAPS_APIKEY); // use a valid API key
+            Geocoder.init(AIzaSyAludDavPzTut9L6LzaxTWIp6Uiboxrbyw); // use a valid API key
 
             Geocoder.from(this.state.originText)
                 .then(json => {
@@ -124,7 +124,7 @@ export default class MapScreen extends Component {
 
         if(this.state.destinationText != '') {
 
-            Geocoder.init(GOOGLE_MAPS_APIKEY); // use a valid API key
+            Geocoder.init(AIzaSyAludDavPzTut9L6LzaxTWIp6Uiboxrbyw); // use a valid API key
 
             Geocoder.from(this.state.destinationText)
             .then(json => {

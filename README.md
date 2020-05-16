@@ -34,7 +34,8 @@ $ react-native run-android
 $ react-native run-ios
 ```
 
-Não esqueça de no arquivo ``AndroidManifest.xml`` colocar sua API Key nesse local
+Não esqueça de no arquivo ``AndroidManifest.xml`` colocar sua API Key nesse local.
+Para conseguir a API é necessário entrar no Google developers, criar uma nova credencial e adicionar a API key.
 
 ```
 <meta-data 
