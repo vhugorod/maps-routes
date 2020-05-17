@@ -14,7 +14,7 @@ Além disso, vai ser necessário você ter todo o ambiente necessário para a ex
 
 Caso você precise ajuda para configurar seu ambiente é só seguir as [instruções](https://rocketseat.com.br/assets/files/ambiente-de-desenvolvimento-rn.pdf) desse tutorial
 
-Primeiramente use o ``git clone`` após isso
+Primeiramente use o ``git clone`` após isso segue os comandos abaixo
 
 ```
 $ cd MapsRoutes
