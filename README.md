@@ -25,7 +25,7 @@ $ npm install i
 
 $ yarn install
 
-// Comando para rodar o aplicativo
+// Comando para executar o aplicativo
 
 $ react-native run-android
 
